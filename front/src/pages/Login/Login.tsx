@@ -23,7 +23,7 @@ export default function Login() {
   return (
     <>
     <div>
-        <img src='https://scontent.fmex5-1.fna.fbcdn.net/v/t39.30808-6/350534868_594942142730765_7192120902252500438_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oeKoyJx5BI0Q7kNvgEQVN5S&_nc_ht=scontent.fmex5-1.fna&oh=00_AYAccRnBDf8Of5RdEsHgW8oUnLhzNGJB1inLNoN80xU36g&oe=66CC5EC8' 
+        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgnku7svi0DCelqQjYiFqnjlJCnxYuv6dsQ&s' 
         style={{ width: '200px', height: 'auto' }} 
         />
         <h1>Inicia Sesión</h1>
